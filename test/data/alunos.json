@@ -1,0 +1,13 @@
+[
+  {
+    "nome": "Mariana Costa",
+    "email": "mariana.costa.teste@example.com",
+    "matricula": "2026999",
+    "senha": "senha123",
+    "disciplinaId": "disciplina-matematica",
+    "trabalho": {
+      "titulo": "Lista de Exercicios 2",
+      "descricao": "Resolucao dos exercicios propostos."
+    }
+  }
+]
